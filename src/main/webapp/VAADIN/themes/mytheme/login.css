@@ -1,0 +1,50 @@
+.v-sliderpanel-wrapper .v-sliderpanel-content {
+  background: #99CCFF;
+  color: #000;
+}
+.v-sliderpanel-wrapper .v-sliderpanel-tab {
+  background: white; //#B1E7FF;
+  color: #000;
+}
+
+
+.v-tree-node-caption-disabled {
+	color: black;
+	font-style: italic;
+	border-style: solid;
+	border-width:1px;
+}
+
+.tree-background{
+	background-color: blue;
+}
+
+
+/* No text transform */
+.v-table-header-wrap,
+.white .v-table-header-wrap,
+.v-table-footer-wrap,
+.white .v-table-footer-wrap,
+.v-table-header-drag {
+    text-transform: none;
+}
+
+/* Make table caption bold */
+.v-captiontext {
+    font-weight:bold;
+}
+
+.v-panel-caption,
+.v-panel-caption-light {
+    font-size: 12px;
+}
+
+.login-background {
+    background: url(../../../images/shutterstock_142709353.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed; 
+}
