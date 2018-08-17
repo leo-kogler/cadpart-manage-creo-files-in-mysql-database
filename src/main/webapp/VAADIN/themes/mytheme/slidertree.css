@@ -1,0 +1,12 @@
+@CHARSET "ISO-8859-1";
+
+.v-tree-node-caption-disabled {
+	color: black;
+	font-style: italic;
+	border-style: solid;
+	border-width:1px;
+}
+
+.tree-background{
+	background-color: blue;
+}
